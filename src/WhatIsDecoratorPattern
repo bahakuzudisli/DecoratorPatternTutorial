@@ -1,0 +1,9 @@
+
+Decorator tasarım deseni, nesne yönelimli programlamada kullanılan bir yapısal desendir.
+Bu desen, bir nesnenin davranışını dinamik olarak genişletmeyi sağlar ve
+alt sınıflar oluşturmadan nesne davranışını değiştirmek için bir yol sunar.
+Bu desen, bir nesne üzerinde farklı özellikleri eklemek veya kaldırmak için kullanılır.
+Temel bileşeni temsil eden bir arayüz veya sınıf, soyut bir dekoratör sınıfı ve
+bu sınıfı genişleten bir veya daha fazla konkret dekoratör sınıfını içerir.
+Decorator deseni, esnek ve yeniden kullanılabilir kod oluşturmak için idealdir ve
+özellikle sınıfların dinamik bir şekilde birleştirilmesi gerektiğinde kullanışlıdır.

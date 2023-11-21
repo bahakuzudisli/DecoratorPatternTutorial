@@ -1,5 +1,7 @@
+package beverages;
+
 public abstract class Beverage {
-    String description = "Unknown Beverage";
+    String description = "Unknown beverages.Beverage";
 
     public String getDescription() {
         return description;
